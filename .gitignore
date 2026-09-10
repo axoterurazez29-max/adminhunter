@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+*.json
+*.log
+.venv/
+venv/
+env/
+.DS_Store
+results.json
+admin_scan.json
