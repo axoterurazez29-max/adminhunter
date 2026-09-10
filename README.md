@@ -17,7 +17,7 @@ Advanced Admin Panel & Login Page Finder for authorised security testing.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/adminhunter.git
+git clone https://github.com/axoterurazez29-max/adminhunter.git
 cd adminhunter
 pip install -r requirements.txt
 chmod +x adminhunter.py
